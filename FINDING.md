@@ -3,9 +3,17 @@
 ## Scan Summary
 - **Date:**   23-june-2025
 - **IP Range Scanned:** 172.17.0.0/16
-- **Total Hosts Discovered:** 32768
+- **Total Hosts Discovered:** 65536
 
-**Open Ports Identified** 
+**Open Ports Identified:** none
+```
+Nmap scan report for 172.17.0.1
+Host is up (0.000018s latency).
+All 1000 scanned ports on 172.17.0.1 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+Nmap done: 65536 IP addresses (1 host up) scanned in 2647.27 seconds
+```
+   
 ## Critical Findings
 
 | IP Address   | Port | Service       | Risk Level | Notes                     |
